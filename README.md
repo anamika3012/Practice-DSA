@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anamika3012/Practice-DSA/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/anamika3012/Practice-DSA/tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -36,6 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/anamika3012/Practice-DSA/tree/master/0134-gas-station) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
 
 
