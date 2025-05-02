@@ -1,32 +1,34 @@
 import json
+import re
 
-# Load stats
-with open("stats.json", "r") as f:
-    data = json.load(f)
+# Step 1: Load the JSON data
+with open("stats.json", "r", encoding="utf-8") as f:
+    stats = json.load(f)
 
-stats = data["leetcode"]
+leetcode = stats.get("leetcode", {})
+easy = leetcode.get("easy", 0)
+medium = leetcode.get("medium", 0)
+hard = leetcode.get("hard", 0)
+solved = leetcode.get("solved", 0)
 
-# Load README
+# Step 2: Load README
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-# New stats string
-new_stats = f"""
-- 🟢 Easy: **{stats['easy']}**
-- 🟡 Medium: **{stats['medium']}**
-- 🔴 Hard: **{stats['hard']}**
-- ✅ Total Solved: **{stats['solved']}**
-"""
+# Step 3: Replace content between markers
+pattern = r"<!-- LC_STATS_START -->(.*?)<!-- LC_STATS_END -->"
+new_stats = f"""<!-- LC_STATS_START -->
+- 🟢 Easy: **{easy}**
+- 🟡 Medium: **{medium}**
+- 🔴 Hard: **{hard}**
+- ✅ Total Solved: **{solved}**
+<!-- LC_STATS_END -->"""
 
-# Replace content between markers
-start = "<!-- LC_STATS_START -->"
-end = "<!-- LC_STATS_END -->"
+# Step 4: Substitute the content
+updated_content = re.sub(pattern, new_stats, content, flags=re.DOTALL)
 
-before = content.split(start)[0] + start
-after = end + content.split(end)[1]
-
-updated_readme = before + "\n" + new_stats + "\n" + after
-
-# Save back to README
+# Step 5: Write back to README
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(updated_readme)
+    f.write(updated_content)
+
+print("✅ README.md updated successfully!")
