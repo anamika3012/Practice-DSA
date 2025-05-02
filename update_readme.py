@@ -1,34 +1,33 @@
 import json
 import re
 
-# Step 1: Load the JSON data
+# Load LeetHub-generated stats
 with open("stats.json", "r", encoding="utf-8") as f:
-    stats = json.load(f)
+    stats = json.load(f)["leetcode"]
 
-leetcode = stats.get("leetcode", {})
-easy = leetcode.get("easy", 0)
-medium = leetcode.get("medium", 0)
-hard = leetcode.get("hard", 0)
-solved = leetcode.get("solved", 0)
+# Extract values
+easy = stats.get("easy", 0)
+medium = stats.get("medium", 0)
+hard = stats.get("hard", 0)
+solved = stats.get("solved", 0)
 
-# Step 2: Load README
+# Read the README
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-# Step 3: Replace content between markers
-pattern = r"<!-- LC_STATS_START -->(.*?)<!-- LC_STATS_END -->"
-new_stats = f"""<!-- LC_STATS_START -->
+# New stats block
+stats_block = f"""<!-- LC_STATS_START -->
 - 🟢 Easy: **{easy}**
 - 🟡 Medium: **{medium}**
 - 🔴 Hard: **{hard}**
 - ✅ Total Solved: **{solved}**
 <!-- LC_STATS_END -->"""
 
-# Step 4: Substitute the content
-updated_content = re.sub(pattern, new_stats, content, flags=re.DOTALL)
+# Replace between markers
+updated = re.sub(r"<!-- LC_STATS_START -->(.*?)<!-- LC_STATS_END -->", stats_block, content, flags=re.DOTALL)
 
-# Step 5: Write back to README
+# Write back
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(updated_content)
+    f.write(updated)
 
-print("✅ README.md updated successfully!")
+print("✅ Updated README with LeetCode stats.")
