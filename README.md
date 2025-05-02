@@ -32,3 +32,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anamika3012/Practice-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
+
+
+
+## 🧠 LeetCode Progress
+
+<!-- LC_STATS_START -->
+Stats will appear here after the first update.
+<!-- LC_STATS_END -->
