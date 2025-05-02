@@ -2,17 +2,20 @@ import json
 
 # Load stats
 with open("stats.json", "r") as f:
-    stats = json.load(f)
+    data = json.load(f)
+
+stats = data["leetcode"]
 
 # Load README
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-# Format new stats
+# New stats string
 new_stats = f"""
 - 🟢 Easy: **{stats['easy']}**
 - 🟡 Medium: **{stats['medium']}**
 - 🔴 Hard: **{stats['hard']}**
+- ✅ Total Solved: **{stats['solved']}**
 """
 
 # Replace content between markers
@@ -24,6 +27,6 @@ after = end + content.split(end)[1]
 
 updated_readme = before + "\n" + new_stats + "\n" + after
 
-# Write updated content back
+# Save back to README
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated_readme)
