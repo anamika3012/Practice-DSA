@@ -39,9 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics End-->
 
 
-
-## 🧠 LeetCode Progress
-
+# Leetcode Stats
 <!-- LC_STATS_START -->
-Stats will appear here after the first update.
+content to be replaced
 <!-- LC_STATS_END -->
+
