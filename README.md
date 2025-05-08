@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/anamika3012/Practice-DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anamika3012/Practice-DSA/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/anamika3012/Practice-DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anamika3012/Practice-DSA/tree/master/0113-path-sum-ii) |
 ## Array
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anamika3012/Practice-DSA/tree/master/0054-spiral-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/anamika3012/Practice-DSA/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
 | [2048-build-array-from-permutation](https://github.com/anamika3012/Practice-DSA/tree/master/2048-build-array-from-permutation) |
@@ -54,6 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/anamika3012/Practice-DSA/tree/master/0113-path-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
 
 
