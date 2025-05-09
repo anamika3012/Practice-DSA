@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
+| [3637-count-number-of-balanced-permutations](https://github.com/anamika3012/Practice-DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/anamika3012/Practice-DSA/tree/master/3637-count-number-of-balanced-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/anamika3012/Practice-DSA/tree/master/3637-count-number-of-balanced-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/anamika3012/Practice-DSA/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
 
 
