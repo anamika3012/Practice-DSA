@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
 | [1293-three-consecutive-odds](https://github.com/anamika3012/Practice-DSA/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/anamika3012/Practice-DSA/tree/master/2048-build-array-from-permutation) |
+| [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anamika3012/Practice-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Matrix
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/anamika3012/Practice-DSA/tree/master/3637-count-number-of-balanced-permutations) |
+## Sorting
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
 
 
