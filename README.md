@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anamika3012/Practice-DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anamika3012/Practice-DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anamika3012/Practice-DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -96,6 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
 
 
