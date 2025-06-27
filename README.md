@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
 | [1293-three-consecutive-odds](https://github.com/anamika3012/Practice-DSA/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/anamika3012/Practice-DSA/tree/master/2048-build-array-from-permutation) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anamika3012/Practice-DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anamika3012/Practice-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/anamika3012/Practice-DSA/tree/master/0134-gas-station) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anamika3012/Practice-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anamika3012/Practice-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Math
@@ -159,6 +161,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anamika3012/Practice-DSA/tree/master/0222-count-complete-tree-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
 
 
