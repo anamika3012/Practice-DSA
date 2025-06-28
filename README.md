@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/anamika3012/Practice-DSA/tree/master/0134-gas-station) |
+| [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anamika3012/Practice-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anamika3012/Practice-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anamika3012/Practice-DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anamika3012/Practice-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anamika3012/Practice-DSA/tree/master/0075-sort-colors) |
+| [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
 
