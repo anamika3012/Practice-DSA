@@ -175,6 +175,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/anamika3012/Practice-DSA/tree/master/1304-longest-happy-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anamika3012/Practice-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
 
 
