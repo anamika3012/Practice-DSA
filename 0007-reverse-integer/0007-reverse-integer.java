@@ -9,6 +9,7 @@ class Solution {
          if(revno > Integer.MAX_VALUE || revno < Integer.MIN_VALUE){
             return 0;
         }
-        return (int)revno;
+        return (int)revno;    /// why? because testcase 1036 , no : 1534236469, 
+        //the no becomes greater than range of integer during reversal , so java automatically wraps it around int , thus corrupting the value of revno , so we need the ans to be in long , but the return value must be in int , so casting.
     }
 }
