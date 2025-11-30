@@ -7,7 +7,7 @@ class Solution {
             num = num /10;
             revno = revno *10 + digit;
         }
-         if(revno > Integer.MAX_VALUE && revno < Integer.MIN_VALUE){
+         if(revno > Integer.MAX_VALUE || revno < Integer.MIN_VALUE){
             return 0;
         }
         return revno;
