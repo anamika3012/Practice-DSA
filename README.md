@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anamika3012/Practice-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/anamika3012/Practice-DSA/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/anamika3012/Practice-DSA/tree/master/0189-rotate-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/anamika3012/Practice-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/anamika3012/Practice-DSA/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/anamika3012/Practice-DSA/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anamika3012/Practice-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/anamika3012/Practice-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
