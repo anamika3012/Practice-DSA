@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anamika3012/Practice-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/anamika3012/Practice-DSA/tree/master/1293-three-consecutive-odds) |
 | [1390-four-divisors](https://github.com/anamika3012/Practice-DSA/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/anamika3012/Practice-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/anamika3012/Practice-DSA/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anamika3012/Practice-DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anamika3012/Practice-DSA/tree/master/0054-spiral-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/anamika3012/Practice-DSA/tree/master/1975-maximum-matrix-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/anamika3012/Practice-DSA/tree/master/0134-gas-station) |
 | [0778-reorganize-string](https://github.com/anamika3012/Practice-DSA/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/anamika3012/Practice-DSA/tree/master/1304-longest-happy-string) |
+| [1975-maximum-matrix-sum](https://github.com/anamika3012/Practice-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anamika3012/Practice-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anamika3012/Practice-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
