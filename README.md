@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anamika3012/Practice-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/anamika3012/Practice-DSA/tree/master/1293-three-consecutive-odds) |
 | [1390-four-divisors](https://github.com/anamika3012/Practice-DSA/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/anamika3012/Practice-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/anamika3012/Practice-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/anamika3012/Practice-DSA/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anamika3012/Practice-DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anamika3012/Practice-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/anamika3012/Practice-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anamika3012/Practice-DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anamika3012/Practice-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anamika3012/Practice-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
